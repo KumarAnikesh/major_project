@@ -1,0 +1,3 @@
+([('SADAR_App',
+   '/Users/anikeshkumar/major project/dist/SADAR_App',
+   'EXECUTABLE')],)
